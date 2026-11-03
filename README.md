@@ -2,7 +2,7 @@
 
 End-to-end **UI** and **API** test automation framework built with **Python, pytest and Playwright**, with CI on GitHub Actions.
 
-![Test Automation](../../actions/workflows/tests.yml/badge.svg)
+![Test Automation](https://github.com/Shahnaz197/qa-automation-suite/actions/workflows/tests.yml/badge.svg)
 
 ## What's covered
 
